@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Prj" tests="1" assertions="1" failures="0" errors="0" time="0.074033">
+    <testsuite name="MyClassTest" file="/home/mor/prj/tests/MyClassTest.php" tests="1" assertions="1" failures="0" errors="0" time="0.074033">
+      <testcase name="testDemo" class="MyClassTest" file="/home/mor/prj/tests/MyClassTest.php" line="4" assertions="1" time="0.074033"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
